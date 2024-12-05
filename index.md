@@ -1,4 +1,3 @@
----
-title: Welcome to my blog
----
+# royalsflush's first GitHub pages
 
+Exciting times
